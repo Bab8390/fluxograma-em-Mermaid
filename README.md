@@ -1,5 +1,5 @@
 # fluxograma-em-Mermaid
-
+```mermaid
 flowchart LR
   classDef largeFont fill:none, font-size:30px;
 
@@ -28,3 +28,4 @@ flowchart LR
   style G fill:#cfc,stroke:#333,stroke-width:1px
   style H fill:#fcc,stroke:#333,stroke-width:1px
   style I fill:#f9f,stroke:#333,stroke-width:2px
+```
